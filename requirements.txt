@@ -1,7 +1,5 @@
 scipy
 matplotlib
 jupyter
-ipywidgets
 pandas
-scikit-learn
 pymc3
