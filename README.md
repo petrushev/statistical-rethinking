@@ -31,3 +31,11 @@ Make sure you have all the [requirements](requirements.txt) installed.
 #### Chapter 8: MCMC
 
 - [8H - hard problems 1, 2, 3](08%20Chapter%208/01%20H1%2C2%2C3.ipynb)
+
+#### Chapter 10: Counting and Classification
+
+- [Prosocial chimpanzees, H2](10%20Chapter%2010/01%20Prosocial%20chimpanzees%2C%20H2.ipynb)
+- [UC Berkeley admissions](10%20Chapter%2010/02%20Graduate%20school%20admissions.ipynb)
+- [Oceanic islands tools](10%20Chapter%2010/03%20Oceanic%20tool%20complexity.ipynb)
+- [H3](10%20Chapter%2010/04%20H3.ipynb)
+- [H4](10%20Chapter%2010/05%20H4.ipynb)
