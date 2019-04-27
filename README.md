@@ -27,7 +27,7 @@ Make sure you have all the [requirements](requirements.txt) installed.
 #### Chapter 7: Interactions
 
 - [Wines dataset](07%20Chapter%207/01%20Wines%20and%20Judges.ipynb)
-    
+
 #### Chapter 8: MCMC
 
 - [8H - hard problems 1, 2, 3](08%20Chapter%208/01%20H1%2C2%2C3.ipynb)
@@ -39,3 +39,11 @@ Make sure you have all the [requirements](requirements.txt) installed.
 - [Oceanic islands tools](10%20Chapter%2010/03%20Oceanic%20tool%20complexity.ipynb)
 - [H3](10%20Chapter%2010/04%20H3.ipynb)
 - [H4](10%20Chapter%2010/05%20H4.ipynb)
+
+#### Chapter 11: Special and Mixture Distributions
+
+- [Ordered logistic regression](11%20Chapter%2011/01%20Ordered%20logistic%20regression.ipynb)
+- [Over-dispersed outcomes](11%20Chapter%2011/02%20Over-dispersed%20outcomes.ipynb)
+- [H: 1,2,3,4](11%20Chapter%2011/03%20H1%2C%202%2C%203%2C%204.ipynb)
+- [H5](11%20Chapter%2011/04%20H5.ipynb)
+- [H6](11%20Chapter%2011/05%20H6.ipynb)
