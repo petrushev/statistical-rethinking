@@ -42,7 +42,7 @@ Make sure you have all the [requirements](requirements.txt) installed.
 
 #### Chapter 11: Special and Mixture Distributions
 
-- [Ordered logistic regression](11%20Chapter%2011/01%20Ordered%20logistic%20regression.ipynb)
+- [Ordered logistic regression, ordered categorical predictors](11%20Chapter%2011/01%20Ordered%20logistic%20regression.ipynb)
 - [Over-dispersed outcomes](11%20Chapter%2011/02%20Over-dispersed%20outcomes.ipynb)
 - [H: 1,2,3,4](11%20Chapter%2011/03%20H1%2C%202%2C%203%2C%204.ipynb)
 - [H5](11%20Chapter%2011/04%20H5.ipynb)
