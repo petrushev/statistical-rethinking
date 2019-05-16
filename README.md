@@ -47,3 +47,10 @@ Make sure you have all the [requirements](requirements.txt) installed.
 - [H: 1,2,3,4](11%20Chapter%2011/03%20H1%2C%202%2C%203%2C%204.ipynb)
 - [H5](11%20Chapter%2011/04%20H5.ipynb)
 - [H6](11%20Chapter%2011/05%20H6.ipynb)
+
+#### Chapter 12: Multilevel Models
+
+- [Varying intercepts, M1](12%20Chapter%2012/01%20Varying%20intercepts%2C%20M1.ipynb)
+- [H1](12%20Chapter%2012/02%20H1.ipynb)
+- [H: 2, 3](12%20Chapter%2012/03%20H2%2C%203.ipynb)
+- [Bangladesh Fertility Survey - complete model](12%20Chapter%2012/04%20Bangladesh%20Fertility%20Survey.ipynb)
