@@ -54,3 +54,11 @@ Make sure you have all the [requirements](requirements.txt) installed.
 - [H1](12%20Chapter%2012/02%20H1.ipynb)
 - [H: 2, 3](12%20Chapter%2012/03%20H2%2C%203.ipynb)
 - [Bangladesh Fertility Survey - complete model](12%20Chapter%2012/04%20Bangladesh%20Fertility%20Survey.ipynb)
+
+
+#### Chapter 13: Covariate multilevel inference and Gausian processes
+
+- [Covariate intercepts and slopes, M3](13%20Chapter%2013/01%20Covariate%20intercepts%20and%20slopes%2C%20M3.ipynb)
+- [Oceanic tools - auto-correlation model](13%20Chapter%2013/03%20Oceanic%20tools%2C%20auto-correlation%20with%20distance.ipynb)
+- [H1](13%20Chapter%2013/04%20H1.ipynb)
+- [H2](13%20Chapter%2013/05%20H2.ipynb)

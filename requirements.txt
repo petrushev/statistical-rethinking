@@ -3,3 +3,4 @@ matplotlib
 jupyter
 pandas
 pymc3
+arviz
